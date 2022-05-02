@@ -1,2 +1,0 @@
-# uSNKRS
-uSNKRS
